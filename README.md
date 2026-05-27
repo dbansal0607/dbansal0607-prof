@@ -19,29 +19,38 @@
 
 ---
 
-<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 <br/>
 
-🎓 &nbsp; **B.Tech EEE @ VIT Vellore**, Batch 2026 — CGPA **8.74**
+- 🎓 &nbsp; **B.Tech EEE @ VIT Vellore** — Batch 2026
+- 🏅 &nbsp; CGPA **8.74** &nbsp;|&nbsp; **Global Rank #13** Spark-Wars 4.0
+- ⚙️ &nbsp; I build **backend systems & AI-powered products**
+- 🤖 &nbsp; Working with **LangGraph · Claude API · PPO/DRL · LSTM**
+- 🏗️ &nbsp; 3× Hackathon builder — ET GenAI · NatWest · CodeCure
+- 📚 &nbsp; Grinding **System Design & DSA** for SDE roles
+- 💼 &nbsp; **Open to SDE / Backend Engineering** roles in India
+- ⚡ &nbsp; I've rewritten the same backend 3 times just to get it right
 
-⚙️ &nbsp; I build **production-grade backend systems & AI products**
+<br/>
 
-🤖 &nbsp; Hands-on with **LangGraph, Claude API, PPO/DRL, LSTM**
+![SDE](https://img.shields.io/badge/Role-SDE%20%2F%20Backend-00bfff?style=flat-square&logo=codeforces&logoColor=white)
+![VIT](https://img.shields.io/badge/College-VIT%20Vellore-0066cc?style=flat-square&logo=academia&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.74-00bfff?style=flat-square&logo=buffer&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2026-0066cc?style=flat-square&logo=clockify&logoColor=white)
 
-🏆 &nbsp; **Global Rank #13** Spark-Wars 4.0 &nbsp;|&nbsp; 3× Hackathon builder
+</td>
+<td valign="top" width="45%" align="center">
 
-📚 &nbsp; Currently sharpening **System Design & DSA**
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="320"/>
 
-💼 &nbsp; Actively seeking **SDE / Backend Engineering** roles
-
-⚡ &nbsp; Fun fact — I've rewritten the same backend 3 times just to get it right
-
-<br/><br/>
-
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
