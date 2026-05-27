@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d2137,80:0a3d6b,100:0066cc&height=220&section=header&text=Hi!%20I'm%20Dhruv%20Bansal%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Final%20Year%20%40%20VIT%20Vellore&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <div align="center">
 
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/dbansal0607](https://www.linkedin.com/in/dhruv-bansal-74a987258/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dbansal0607)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dbansal0607)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbansal23731@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dbansal0607@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=dbansal0607&label=Profile+Views&style=for-the-badge&color=0066cc&labelColor=0a0e1a)](https://github.com/dbansal0607)
 
 </div>
